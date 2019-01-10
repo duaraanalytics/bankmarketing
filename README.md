@@ -6,4 +6,4 @@
 Customer segmentation is a deceptively simple-sounding concept. Broadly speaking, the goal is to divide customers into groups that share certain characteristics
 
 # Customer Churn
-## 
+## Analyzing Employee Churn with Keras
